@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 252bc06248e050e458b263adf1e2ce96
+timeCreated: 1523187836
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BUILDING1
+    100002: Building1_Tank
+    100004: Building1_TankBase
+    100006: Building1_Window
+    100008: BUILDING2
+    100010: Building2_Bottom
+    100012: Building2_Lid
+    100014: Building2_Top
+    100016: Building2_WindowFrame
+    100018: Building2_Windows
+    100020: //RootNode
+    100022: DarkDoor
+    100024: Door
+    100026: Door2
+    100028: Object001
+    100030: Object002
+    100032: ROUNDBUILDING
+    100034: RoundBuilding_Window
+    100036: SlidingDoor002
+    100038: StraightStair001
+    400000: BUILDING1
+    400002: Building1_Tank
+    400004: Building1_TankBase
+    400006: Building1_Window
+    400008: BUILDING2
+    400010: Building2_Bottom
+    400012: Building2_Lid
+    400014: Building2_Top
+    400016: Building2_WindowFrame
+    400018: Building2_Windows
+    400020: //RootNode
+    400022: DarkDoor
+    400024: Door
+    400026: Door2
+    400028: Object001
+    400030: Object002
+    400032: ROUNDBUILDING
+    400034: RoundBuilding_Window
+    400036: SlidingDoor002
+    400038: StraightStair001
+    2300000: BUILDING1
+    2300002: Building1_Tank
+    2300004: Building1_TankBase
+    2300006: Building1_Window
+    2300008: BUILDING2
+    2300010: Building2_Bottom
+    2300012: Building2_Lid
+    2300014: Building2_Top
+    2300016: Building2_WindowFrame
+    2300018: Building2_Windows
+    2300020: DarkDoor
+    2300022: Door
+    2300024: Door2
+    2300026: Object001
+    2300028: Object002
+    2300030: ROUNDBUILDING
+    2300032: RoundBuilding_Window
+    2300034: SlidingDoor002
+    2300036: StraightStair001
+    3300000: BUILDING1
+    3300002: Building1_Tank
+    3300004: Building1_TankBase
+    3300006: Building1_Window
+    3300008: BUILDING2
+    3300010: Building2_Bottom
+    3300012: Building2_Lid
+    3300014: Building2_Top
+    3300016: Building2_WindowFrame
+    3300018: Building2_Windows
+    3300020: DarkDoor
+    3300022: Door
+    3300024: Door2
+    3300026: Object001
+    3300028: Object002
+    3300030: ROUNDBUILDING
+    3300032: RoundBuilding_Window
+    3300034: SlidingDoor002
+    3300036: StraightStair001
+    4300000: BUILDING2
+    4300002: Building2_Windows
+    4300004: Building2_WindowFrame
+    4300006: Building2_Top
+    4300008: Building2_Lid
+    4300010: Building2_Bottom
+    4300012: BUILDING1
+    4300014: Building1_Window
+    4300016: Building1_Tank
+    4300018: Building1_TankBase
+    4300020: ROUNDBUILDING
+    4300022: RoundBuilding_Window
+    4300024: Door
+    4300026: DarkDoor
+    4300028: SlidingDoor002
+    4300030: StraightStair001
+    4300032: Object001
+    4300034: Object002
+    4300036: Door2
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 72ba345bc8c1cd14ea76c85ec1156b2c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

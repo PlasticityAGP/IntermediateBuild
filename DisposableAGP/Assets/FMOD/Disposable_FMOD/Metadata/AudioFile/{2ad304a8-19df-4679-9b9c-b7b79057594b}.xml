@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{2ad304a8-19df-4679-9b9c-b7b79057594b}">
+        <property name="assetPath">
+            <value>Lefkowitz_Jake_Plasticity_AbandonedCity (1).wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>85.333333333333329</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{68eced61-ad30-4cc6-a767-e91abeabec65}</destination>
+        </relationship>
+    </object>
+</objects>

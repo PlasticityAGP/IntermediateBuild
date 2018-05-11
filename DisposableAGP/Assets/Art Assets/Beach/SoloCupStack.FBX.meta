@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 47f42f21821b9e447a31b48b32af7f1d
+timeCreated: 1522213058
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: SoloCup_Red
+    100002: SoloCup_Red001
+    100004: SoloCup_Red002
+    100006: SoloCup_Red003
+    100008: SoloCup_Red004
+    100010: SoloCup_Red005
+    100012: SoloCup_Red006
+    100014: SoloCup_Red007
+    100016: SoloCup_White
+    100018: SoloCup_White001
+    100020: SoloCup_White002
+    100022: SoloCup_White003
+    100024: SoloCup_White004
+    100026: SoloCup_White005
+    100028: SoloCup_White006
+    100030: SoloCup_White007
+    100032: //RootNode
+    400000: SoloCup_Red
+    400002: SoloCup_Red001
+    400004: SoloCup_Red002
+    400006: SoloCup_Red003
+    400008: SoloCup_Red004
+    400010: SoloCup_Red005
+    400012: SoloCup_Red006
+    400014: SoloCup_Red007
+    400016: SoloCup_White
+    400018: SoloCup_White001
+    400020: SoloCup_White002
+    400022: SoloCup_White003
+    400024: SoloCup_White004
+    400026: SoloCup_White005
+    400028: SoloCup_White006
+    400030: SoloCup_White007
+    400032: //RootNode
+    2300000: SoloCup_Red
+    2300002: SoloCup_Red001
+    2300004: SoloCup_Red002
+    2300006: SoloCup_Red003
+    2300008: SoloCup_Red004
+    2300010: SoloCup_Red005
+    2300012: SoloCup_Red006
+    2300014: SoloCup_Red007
+    2300016: SoloCup_White
+    2300018: SoloCup_White001
+    2300020: SoloCup_White002
+    2300022: SoloCup_White003
+    2300024: SoloCup_White004
+    2300026: SoloCup_White005
+    2300028: SoloCup_White006
+    2300030: SoloCup_White007
+    3300000: SoloCup_Red
+    3300002: SoloCup_Red001
+    3300004: SoloCup_Red002
+    3300006: SoloCup_Red003
+    3300008: SoloCup_Red004
+    3300010: SoloCup_Red005
+    3300012: SoloCup_Red006
+    3300014: SoloCup_Red007
+    3300016: SoloCup_White
+    3300018: SoloCup_White001
+    3300020: SoloCup_White002
+    3300022: SoloCup_White003
+    3300024: SoloCup_White004
+    3300026: SoloCup_White005
+    3300028: SoloCup_White006
+    3300030: SoloCup_White007
+    4300000: SoloCup_Red
+    4300002: SoloCup_White
+    4300004: SoloCup_Red001
+    4300006: SoloCup_White001
+    4300008: SoloCup_Red002
+    4300010: SoloCup_White002
+    4300012: SoloCup_Red003
+    4300014: SoloCup_White003
+    4300016: SoloCup_Red004
+    4300018: SoloCup_White004
+    4300020: SoloCup_Red005
+    4300022: SoloCup_White005
+    4300024: SoloCup_Red006
+    4300026: SoloCup_White006
+    4300028: SoloCup_Red007
+    4300030: SoloCup_White007
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 72ba345bc8c1cd14ea76c85ec1156b2c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

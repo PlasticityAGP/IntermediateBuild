@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{0b3016e3-56b9-4e55-8982-2016a922269f}">
+        <property name="assetPath">
+            <value>Sand_run5.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.35804988662131521</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{68eced61-ad30-4cc6-a767-e91abeabec65}</destination>
+        </relationship>
+    </object>
+</objects>

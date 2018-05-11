@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: WaterTestUgly
+  m_Shader: {fileID: 4800000, guid: 1cac2e0bcc34e4b3cbb4bd85982eba83, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Fresnel:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 352d7f3432a98ba4a8e1646ed11f17d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectiveColor:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RefractionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_2711:
+        m_Texture: {fileID: 2800000, guid: ef08945bd63d6054d93c444de3ac97b8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _ColorFresnel: 1.336
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.465
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalBlendStrengths: 0.798
+    - _NormalMap1Strength: 0.242
+    - _NormalMap2Strength: 0.122
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _ReflDistort: 0.44
+    - _RefrDistort: 0.44
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UV1Tiling: 1
+    - _UV2Tiling: 1
+    - _UVScale: 1.96
+    - _UVSec: 0
+    - _WaveScale: 0.106
+    - _ZWrite: 1
+    - _node_1092: 0
+    m_Colors:
+    - WaveSpeed: {r: 19, g: 9, b: -16, a: -7}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorDeep: {r: 0, g: 0, b: 0, a: 1}
+    - _ColorShallow: {r: 0, g: 0.13235295, b: 0.08306287, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HorizonColor: {r: 0.17199996, g: 0.46299994, b: 0.43499997, a: 1}
+    - _RefrColor: {r: 0.33477506, g: 0.8744555, b: 0.9485294, a: 1}
+    - _UV1Animator: {r: -5, g: 0, b: 0, a: 0}
+    - _UV2Animator: {r: -5, g: 0, b: 0, a: 0}

@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: ba725a43670758c41acd934953a03caf
+timeCreated: 1522831449
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Corn Leaf006
+    100002: Egg1_Inside
+    100004: Egg1_Outside
+    100006: Egg2_Inside
+    100008: Egg2_Outside
+    100010: ShortCornFern002
+    100012: Tree
+    100014: //RootNode
+    400000: Corn Leaf006
+    400002: Egg1_Inside
+    400004: Egg1_Outside
+    400006: Egg2_Inside
+    400008: Egg2_Outside
+    400010: ShortCornFern002
+    400012: Tree
+    400014: //RootNode
+    2300000: Corn Leaf006
+    2300002: Egg1_Inside
+    2300004: Egg1_Outside
+    2300006: Egg2_Inside
+    2300008: Egg2_Outside
+    2300010: ShortCornFern002
+    2300012: Tree
+    3300000: Corn Leaf006
+    3300002: Egg1_Inside
+    3300004: Egg1_Outside
+    3300006: Egg2_Inside
+    3300008: Egg2_Outside
+    3300010: ShortCornFern002
+    3300012: Tree
+    4300000: ShortCornFern002
+    4300002: Egg2_Outside
+    4300004: Egg2_Inside
+    4300006: Egg1_Outside
+    4300008: Egg1_Inside
+    4300010: Tree
+    4300012: Corn Leaf006
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: aa18ec8fd60eb4946a8d47392dd99a08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: f1576fa440e7b9b4b85e1c707939930b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Default
+    second: {fileID: 2100000, guid: 1ec4e757a35eb4740b437180cb8ac6a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 72ba345bc8c1cd14ea76c85ec1156b2c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 083901db44d40614d8e996fd8fc20d3c
+timeCreated: 1520648225
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Corn Leaf002
+    100002: Corn Leaf003
+    100004: Corn Leaf004
+    100006: Corn Leaf005
+    100008: Corn Leaf006
+    100010: Corn Leaf007
+    100012: //RootNode
+    100014: Cylinder001
+    100016: LongCornFern001
+    100018: LongCornFern002
+    100020: LongCornFern003
+    100022: LongCornFern004
+    100024: ShortCornFern002
+    400000: Corn Leaf002
+    400002: Corn Leaf003
+    400004: Corn Leaf004
+    400006: Corn Leaf005
+    400008: Corn Leaf006
+    400010: Corn Leaf007
+    400012: //RootNode
+    400014: Cylinder001
+    400016: LongCornFern001
+    400018: LongCornFern002
+    400020: LongCornFern003
+    400022: LongCornFern004
+    400024: ShortCornFern002
+    2300000: Corn Leaf002
+    2300002: Corn Leaf003
+    2300004: Corn Leaf004
+    2300006: Corn Leaf005
+    2300008: Corn Leaf006
+    2300010: Corn Leaf007
+    2300012: Cylinder001
+    2300014: LongCornFern001
+    2300016: LongCornFern002
+    2300018: LongCornFern003
+    2300020: LongCornFern004
+    2300022: ShortCornFern002
+    3300000: Corn Leaf002
+    3300002: Corn Leaf003
+    3300004: Corn Leaf004
+    3300006: Corn Leaf005
+    3300008: Corn Leaf006
+    3300010: Corn Leaf007
+    3300012: Cylinder001
+    3300014: LongCornFern001
+    3300016: LongCornFern002
+    3300018: LongCornFern003
+    3300020: LongCornFern004
+    3300022: ShortCornFern002
+    4300000: Cylinder001
+    4300002: Corn Leaf002
+    4300004: LongCornFern001
+    4300006: ShortCornFern002
+    4300008: Corn Leaf003
+    4300010: Corn Leaf004
+    4300012: Corn Leaf005
+    4300014: Corn Leaf006
+    4300016: Corn Leaf007
+    4300018: LongCornFern002
+    4300020: LongCornFern003
+    4300022: LongCornFern004
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 52a7319c3e88d82419641049f04993ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: ff0ed8adddd39794bb55f92fedb8c90d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 5a95102bd09ba9b4496b54cb098fff35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 72ba345bc8c1cd14ea76c85ec1156b2c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

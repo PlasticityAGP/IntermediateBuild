@@ -1,0 +1,3745 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 114703048763817884}
+  - {fileID: 114710726384385324}
+  EditorEvents:
+  - {fileID: 114516699665229468}
+  - {fileID: 114848121577068852}
+  - {fileID: 114745639544065854}
+  - {fileID: 114823346436336892}
+  - {fileID: 114456474712935480}
+  - {fileID: 114756869542672958}
+  - {fileID: 114302860050504720}
+  - {fileID: 114686202837904534}
+  - {fileID: 114878406069926068}
+  - {fileID: 114117576035297450}
+  - {fileID: 114255578380845254}
+  - {fileID: 114958943215841532}
+  - {fileID: 114145537417494108}
+  - {fileID: 114139384710102408}
+  - {fileID: 114804038259185608}
+  - {fileID: 114557531703728560}
+  - {fileID: 114810345580321868}
+  - {fileID: 114944912360072834}
+  - {fileID: 114446864769531122}
+  - {fileID: 114860786219107654}
+  - {fileID: 114030418232315560}
+  - {fileID: 114177680412498484}
+  - {fileID: 114981221688543104}
+  - {fileID: 114107688633435900}
+  - {fileID: 114022135188512146}
+  - {fileID: 114002777044563644}
+  - {fileID: 114428660113511854}
+  - {fileID: 114874785672591516}
+  - {fileID: 114235413340255934}
+  - {fileID: 114016079518020120}
+  - {fileID: 114086649768614360}
+  - {fileID: 114345105312161076}
+  - {fileID: 114754258516895992}
+  - {fileID: 114532320234742178}
+  MasterBankRef: {fileID: 114710726384385324}
+  StringsBankRef: {fileID: 114703048763817884}
+  stringsBankWriteTime: 636615706824859817
+  cacheVersion: 2
+--- !u!114 &114002084446311324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636584022386378816
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 13751648
+  Exists: 1
+--- !u!114 &114002777044563644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/City
+  guid: d69b1a01eb86494fa2a8a26b75722f94
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 300075
+--- !u!114 &114016079518020120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Zone1Noise
+  guid: ef80bc8d3a9ede4ca0ba11a3de4ac704
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 208717
+--- !u!114 &114020868007931900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636596618550000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 0
+--- !u!114 &114022135188512146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/DucklingCall
+  guid: d0da368beff7484daa9c918b607a6106
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7000
+--- !u!114 &114026846547526344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Perforce\elainezh_DESKTOP-KHDT3N0_8084\ctin_484\20181\18363\Workspace\TheGame\AimeeMichelle\Project\Disposable\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114030418232315560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/WoodCreakForPlank
+  guid: bf55d62909a6df4eb561416672e0678b
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 900
+--- !u!114 &114032548240286752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/WoodCreakDown
+  guid: ca7faec1376c1a49b2800d55f944a33b
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 840
+--- !u!114 &114032750094114652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636584406846465383
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 15984320
+  Exists: 1
+--- !u!114 &114052647970920066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/Disposable/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636560460730000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114064135354020584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MainMenuMusic
+  guid: 73ded42bd8b47d40b383f7e07cf86aaa
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 118636
+--- !u!114 &114065476868745724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636596618550000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 0
+--- !u!114 &114086649768614360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/InsightChirp
+  guid: f1aea3a59f04d0419e53dc907f1be094
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2864
+--- !u!114 &114087455132930208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636576035950000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4924256
+  Exists: 1
+--- !u!114 &114088929352141036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636583972240000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 13709984
+  Exists: 1
+--- !u!114 &114093850325606160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636547444755244589
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 19872
+  Exists: 1
+--- !u!114 &114107688633435900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/HouseMusic3D
+  guid: d06fb42b9f001d47b2bb865009ea96df
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 88120
+--- !u!114 &114109766546094092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/BreakingShelf
+  guid: 9b5f4135c26c7f41821f1ccb3a1e4283
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3676
+--- !u!114 &114115559432030176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/InsightChirp
+  guid: f1aea3a59f04d0419e53dc907f1be094
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2864
+--- !u!114 &114115959820794572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Apartment
+  guid: e37f8c8270c00f4eb7e9fe97b1d0fec9
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 209802
+--- !u!114 &114117576035297450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MainMenuMusic
+  guid: 73ded42bd8b47d40b383f7e07cf86aaa
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 118636
+--- !u!114 &114119932686035764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636587587248341980
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 18241504
+  Exists: 1
+--- !u!114 &114122312704029048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636547227160000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 903616
+  Exists: 1
+--- !u!114 &114123951443604438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Michelle Olson\Desktop\UnityProjects\Intermediate\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636602224947048716
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 27217536
+  Exists: 1
+--- !u!114 &114127584771579382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/OceanAmbienceoNoMusic
+  guid: 531f748cf4605d4b8627972f1d5595ef
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 300075
+--- !u!114 &114133643140346584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/OpenWindow
+  guid: 81b7d1e4acf0b94faecb90ab2d4c8df8
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2632
+--- !u!114 &114135978869597288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Unity Projects\Disposable\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636574918490249287
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114136630837183916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636588263019400398
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 20890176
+  Exists: 1
+--- !u!114 &114138860481409144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636580364480000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12600384
+  Exists: 1
+--- !u!114 &114139384710102408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/FreewayAmbience
+  guid: 825431b46f56f4428820dfc5af15d4e3
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 97001
+--- !u!114 &114145537417494108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/OpenWindow
+  guid: 81b7d1e4acf0b94faecb90ab2d4c8df8
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2632
+--- !u!114 &114148577184371034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636599232303702334
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 1
+--- !u!114 &114177680412498484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/WoodCreakDown
+  guid: ca7faec1376c1a49b2800d55f944a33b
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 840
+--- !u!114 &114178766985280234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636596618550000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 0
+--- !u!114 &114193597929400238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636588033513899849
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 20890176
+  Exists: 1
+--- !u!114 &114194818240521230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636599232303702334
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 1
+--- !u!114 &114200665589832336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636588263019400398
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 20890176
+  Exists: 0
+--- !u!114 &114203795345357460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636599232303702334
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 1
+--- !u!114 &114203832664427760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636576035950000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4924256
+  Exists: 1
+--- !u!114 &114212342150801620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/OceanAmbienceAndMusic
+  guid: 99e7782a1ebcd444ab5aff2703eb4dae
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 300075
+--- !u!114 &114217804729683724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636602223520000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 27217536
+  Exists: 1
+--- !u!114 &114228512428032324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/DucklingCall
+  guid: d0da368beff7484daa9c918b607a6106
+  Banks: []
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7000
+--- !u!114 &114235413340255934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/CarHood
+  guid: e6c5a3459dfa0842b7cc34638e66b3d1
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1563
+--- !u!114 &114244788527947030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636588034760000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 20890176
+  Exists: 0
+--- !u!114 &114253160386663160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/CityMusic
+  guid: 720ee82251189a4daa8b3b3bf780e94a
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 71000
+--- !u!114 &114255578380845254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/CardboardBoxPush
+  guid: 748a251e0118584d9fb08a8f222ba5b6
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4621
+--- !u!114 &114295629686258492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/CarHood
+  guid: e6c5a3459dfa0842b7cc34638e66b3d1
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1563
+--- !u!114 &114298970407283830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636556809790000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114302860050504720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/BirdsChirping
+  guid: 70d68ad48f96dc40b87cbaabd73a265f
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 69877
+--- !u!114 &114342167785294660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636582774736252935
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12600384
+  Exists: 1
+--- !u!114 &114345105312161076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Flies
+  guid: f57a3a919f3f544d8cd38ca1e1fc8557
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 74527
+--- !u!114 &114345719971225114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/CardboardBoxPush
+  guid: 748a251e0118584d9fb08a8f222ba5b6
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4621
+--- !u!114 &114350057393727728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636545973980000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 19872
+  Exists: 1
+--- !u!114 &114354111493529122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114355520983821488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Treym\UnityProjects\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636574918572394720
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114361354534646040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/LiftStop
+  guid: 7118229e90c1db479efff4a6274c6d3b
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1273
+--- !u!114 &114369301076814118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636602256766040772
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 27217536
+  Exists: 0
+--- !u!114 &114371187871060382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Flies
+  guid: f57a3a919f3f544d8cd38ca1e1fc8557
+  Banks: []
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 74527
+--- !u!114 &114387956786260296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636599232303702334
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 0
+--- !u!114 &114389234228969024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/PlankFall
+  guid: 4bf2e4a63e661f48a4a6ebed8068590e
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1351
+--- !u!114 &114397844489636044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/NormalFootsteps
+  guid: 7e1da435665b34448e7d63aeb1135b15
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 300
+--- !u!114 &114406646919241302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636588033513899849
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 20890176
+  Exists: 1
+--- !u!114 &114414163147993834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/timothiellim/Documents/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636574903930000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114419710262978522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636548557178811081
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 903616
+  Exists: 0
+--- !u!114 &114420647507698398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636580364480000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12600384
+  Exists: 1
+--- !u!114 &114421339659353480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Perforce\elainezh_DESKTOP-KHDT3N0_8084\ctin_484\20181\18363\Workspace\TheGame\AimeeMichelle\Project\Disposable\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114428660113511854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Apartment
+  guid: e37f8c8270c00f4eb7e9fe97b1d0fec9
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 209802
+--- !u!114 &114430081359132748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/WoodCreakForPlank
+  guid: bf55d62909a6df4eb561416672e0678b
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 900
+--- !u!114 &114435837841058116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114441383926777954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636576041492747768
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4924256
+  Exists: 1
+--- !u!114 &114446864769531122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/HouseMusic
+  guid: b56560c8bad74940ba0d403b2c464b54
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 88120
+--- !u!114 &114450919046632550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114453197339604076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/Disposable/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636560460730000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114454040864484040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636602101757364875
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 22739360
+  Exists: 1
+--- !u!114 &114455531710801802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636578797670000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12032288
+  Exists: 0
+--- !u!114 &114456474712935480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/FloorShatter
+  guid: 66170d0ad7ac1140a5ab84e6172537fa
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5376
+--- !u!114 &114460219622665654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114461914953066594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636596618550000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 1
+--- !u!114 &114475490876162358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636580364480000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12600384
+  Exists: 0
+--- !u!114 &114478545451157172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636580366398028619
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12600384
+  Exists: 1
+--- !u!114 &114495685796620350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636580364480000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12600384
+  Exists: 0
+--- !u!114 &114497655782084552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636580366398028619
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12600384
+  Exists: 0
+--- !u!114 &114506898895344780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636576035950000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4924256
+  Exists: 0
+--- !u!114 &114511059512662466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636553699530000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399648
+  Exists: 1
+--- !u!114 &114516699665229468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/PloverSadSounds
+  guid: 162c899d80ce2341999af129953e20eb
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5300
+--- !u!114 &114521523781171902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/FreewayAmbience
+  guid: 825431b46f56f4428820dfc5af15d4e3
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 97001
+--- !u!114 &114532320234742178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/HelpedBird
+  guid: 6ca78ecc787d924e815665ac74aac488
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4864
+--- !u!114 &114539763705158616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636575306350000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114550669976960734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/BirdsChirping
+  guid: 70d68ad48f96dc40b87cbaabd73a265f
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 69877
+--- !u!114 &114557531703728560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MetalCreakUp
+  guid: 8d41901d25a75942afe4c3667bb58afe
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2500
+--- !u!114 &114559221245091606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636580366398028619
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12600384
+  Exists: 1
+--- !u!114 &114560031644104386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636602098540000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 22739360
+  Exists: 1
+--- !u!114 &114564530920383274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636588034760000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 20890176
+  Exists: 0
+--- !u!114 &114571124089348340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636588228860000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 20890176
+  Exists: 0
+--- !u!114 &114571545514669702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Perforce\elainezh_DESKTOP-KHDT3N0_8084\ctin_484\20181\18363\Workspace\TheGame\AimeeMichelle\Project\Disposable\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114575543550568896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/OceanAmbiencoNoMusic
+  guid: 531f748cf4605d4b8627972f1d5595ef
+  Banks:
+  - {fileID: 114217804729683724}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 300075
+--- !u!114 &114584598201736140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636554171141091067
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399648
+  Exists: 0
+--- !u!114 &114598120975117556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636554171141091067
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399648
+  Exists: 0
+--- !u!114 &114598484678536044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/HighwayMusic
+  guid: 6f8e1da75221f7479d5b558a2cd08ff7
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 64666
+--- !u!114 &114604143317407324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/HouseMusic3D
+  guid: d06fb42b9f001d47b2bb865009ea96df
+  Banks: []
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 88120
+--- !u!114 &114613290971600396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636578440070482549
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 9742112
+  Exists: 1
+--- !u!114 &114630522996538960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636556809790000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114636430262538502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114638503972540310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/City
+  guid: d69b1a01eb86494fa2a8a26b75722f94
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 300075
+--- !u!114 &114643959449465626
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Michelle Olson\Desktop\UnityProjects\Intermediate\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636601136774908660
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 1
+--- !u!114 &114648845774870262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/GirlTrip
+  guid: fae3363eba454e489a7e8229b6967355
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5351
+--- !u!114 &114650950858997294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636580366398028619
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12600384
+  Exists: 1
+--- !u!114 &114657500307571266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636602249060000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 27217536
+  Exists: 0
+--- !u!114 &114661151735345252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636587548070000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 18241504
+  Exists: 0
+--- !u!114 &114663811995720016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MetalCreakDown
+  guid: b90db01873d1ce4da1f4ae3bb11a865a
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2160
+--- !u!114 &114668075716084358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636584280600000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 15984320
+  Exists: 0
+--- !u!114 &114668400326772840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Zone1Noise
+  guid: ef80bc8d3a9ede4ca0ba11a3de4ac704
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 208717
+--- !u!114 &114679918983102606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636596618550000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 0
+--- !u!114 &114686202837904534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/LiftStop
+  guid: 7118229e90c1db479efff4a6274c6d3b
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1273
+--- !u!114 &114696428164015374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636576041492747768
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4924256
+  Exists: 1
+--- !u!114 &114702408017635112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636556809790000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114702732656890422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/AmbientNoise
+  guid: ef80bc8d3a9ede4ca0ba11a3de4ac704
+  Banks:
+  - {fileID: 114661151735345252}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 80000
+--- !u!114 &114703048763817884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/Disposable_FMOD\Build\Desktop\Master Bank.strings.bank
+  lastModified: 636615706824859817
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 2252
+  Exists: 1
+--- !u!114 &114703104790925708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Michelle Olson\Desktop\UnityProjects\Intermediate\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636602104087834335
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 22739360
+  Exists: 1
+--- !u!114 &114710726384385324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Treym\UnityProjects\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636615707862882722
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 27217536
+  Exists: 1
+--- !u!114 &114717835493547022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636576035950000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4924256
+  Exists: 0
+--- !u!114 &114725943685072330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Treym\UnityProjects\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636574918572394720
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114728390780248410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636584019280000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 13751648
+  Exists: 0
+--- !u!114 &114729287643032620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636576041492747768
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4924256
+  Exists: 0
+--- !u!114 &114729811230890282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114736432041720576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636576041492747768
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4924256
+  Exists: 1
+--- !u!114 &114743113715905878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636577994970000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 9742112
+  Exists: 0
+--- !u!114 &114743142820651220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636576041492747768
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4924256
+  Exists: 1
+--- !u!114 &114745639544065854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/OceanAmbienceNoMusic
+  guid: 531f748cf4605d4b8627972f1d5595ef
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 300075
+--- !u!114 &114754258516895992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/GirlTrip
+  guid: fae3363eba454e489a7e8229b6967355
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5351
+--- !u!114 &114756869542672958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/HighwayMusic
+  guid: 6f8e1da75221f7479d5b558a2cd08ff7
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 64666
+--- !u!114 &114764590354174758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/FarmAmbience
+  guid: 844820ddf45b564ebb2936f6b3002611
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 94159
+--- !u!114 &114767306050823542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636556809790000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114769606613717936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636547227160000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 903616
+  Exists: 1
+--- !u!114 &114782078741366922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636576035950000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4924256
+  Exists: 0
+--- !u!114 &114783943662638908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/FloorShatter
+  guid: 66170d0ad7ac1140a5ab84e6172537fa
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5376
+--- !u!114 &114786344905667018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Michelle Olson\Desktop\UnityProjects\Intermediate\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636601136774908660
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 0
+--- !u!114 &114794179688071188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Jake'sHighwayMusic
+  guid: 6f8e1da75221f7479d5b558a2cd08ff7
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 64666
+--- !u!114 &114797348486222612
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636556809790000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114802580439467316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MetalCreakUp
+  guid: 8d41901d25a75942afe4c3667bb58afe
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2500
+--- !u!114 &114803234623239946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636602256766040772
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 27217536
+  Exists: 1
+--- !u!114 &114804038259185608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/FarmAmbience
+  guid: 844820ddf45b564ebb2936f6b3002611
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 94159
+--- !u!114 &114807966106791622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636596618550000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 1
+--- !u!114 &114810345580321868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/OceanAmbienceAndMusic
+  guid: 99e7782a1ebcd444ab5aff2703eb4dae
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 300075
+--- !u!114 &114813580172293514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636579422419462252
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12032288
+  Exists: 1
+--- !u!114 &114823346436336892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/LiftUp
+  guid: 59e1806feab7a54f9c748909f3434fed
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5476
+--- !u!114 &114828260874369338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Treym\UnityProjects\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636574918572394720
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114834282606052764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114834496123119234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114835342131399148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636580364480000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12600384
+  Exists: 1
+--- !u!114 &114840424797366930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636553699530000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399648
+  Exists: 1
+--- !u!114 &114846773793453352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636553699530000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399648
+  Exists: 1
+--- !u!114 &114848121577068852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/PlankFall
+  guid: 4bf2e4a63e661f48a4a6ebed8068590e
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1351
+--- !u!114 &114848579792482672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636580364480000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12600384
+  Exists: 0
+--- !u!114 &114859773422467654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636599232303702334
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 0
+--- !u!114 &114860786219107654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MetalCreakDown
+  guid: b90db01873d1ce4da1f4ae3bb11a865a
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2160
+--- !u!114 &114861040365066514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114864073050470600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/Disposable/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636560460730000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114865479392366898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Treym\UnityProjects\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636578469193096433
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 9742112
+  Exists: 1
+--- !u!114 &114868789340196446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636548557178811081
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 903616
+  Exists: 1
+--- !u!114 &114874785672591516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/LiftDown
+  guid: e50aea1a0d7c65498946de840d21242c
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5476
+--- !u!114 &114876773262358388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636576041492747768
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4924256
+  Exists: 1
+--- !u!114 &114878406069926068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/CityMusic
+  guid: 720ee82251189a4daa8b3b3bf780e94a
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 71000
+--- !u!114 &114878921144779460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Michelle Olson\Desktop\UnityProjects\Intermediate\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636601136774908660
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 0
+--- !u!114 &114884254816987036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/HouseMusic
+  guid: b56560c8bad74940ba0d403b2c464b54
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 88120
+--- !u!114 &114888771797840790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636596618550000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 1
+--- !u!114 &114899287232096608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/PloverSadSounds
+  guid: 162c899d80ce2341999af129953e20eb
+  Banks: []
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5300
+--- !u!114 &114901754739592720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/LiftUp
+  guid: 59e1806feab7a54f9c748909f3434fed
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5476
+--- !u!114 &114912906772317972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636554171141091067
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399648
+  Exists: 0
+--- !u!114 &114913340037890364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636556809790000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114916642812073580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636583975587560932
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 13709984
+  Exists: 1
+--- !u!114 &114944912360072834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/BreakingShelf
+  guid: 9b5f4135c26c7f41821f1ccb3a1e4283
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3676
+--- !u!114 &114952877342410940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/LiftDown
+  guid: e50aea1a0d7c65498946de840d21242c
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5476
+--- !u!114 &114953432836212184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114958943215841532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/NormalFootsteps
+  guid: 7e1da435665b34448e7d63aeb1135b15
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 300
+--- !u!114 &114960560750937126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636576035950000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4924256
+  Exists: 1
+--- !u!114 &114962650696623428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Documents\ZhangOlson_Intermediate\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636556917131429002
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 1
+--- !u!114 &114968942357715916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636580366398028619
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12600384
+  Exists: 0
+--- !u!114 &114970234820257676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/SummerUnityPractice/ZhangOlson_Intermediate/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636556809790000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3399840
+  Exists: 0
+--- !u!114 &114970308670195758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636588228860000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 20890176
+  Exists: 0
+--- !u!114 &114972323889370488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\elain\Pictures\DisposableAGP\DisposableAGP\Assets\FMOD\Disposable_FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636599232303702334
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 1
+--- !u!114 &114980275813802034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636596618550000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 21861504
+  Exists: 1
+--- !u!114 &114980593169816604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: /Users/michelleolson/Perforce/olsonm_Macbook_Intermediate/ctin_484/20181/18363/Workspace/TheGame/AimeeMichelle/Project/DisposableAGP/Assets/FMOD/Disposable_FMOD/Build/Desktop/Master
+    Bank.bank
+  lastModified: 636602249060000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 27217536
+  Exists: 1
+--- !u!114 &114981221688543104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Wind
+  guid: cd5807469eead0428286b034443b337b
+  Banks:
+  - {fileID: 114710726384385324}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 47001
+--- !u!114 &114983928064793670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Wind
+  guid: cd5807469eead0428286b034443b337b
+  Banks: []
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 47001

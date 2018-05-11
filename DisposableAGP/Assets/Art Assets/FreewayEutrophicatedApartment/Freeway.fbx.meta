@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 8a429d15c948bc14e82807e54bd29b31
+timeCreated: 1521317853
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FreewayPipes
+    100004: FreewayPropsv2:Bricks
+    100006: FreewayPropsv2:Bricks1
+    100008: FreewayPropsv2:car:Car
+    100010: FreewayPropsv2:car:Car_body1
+    100012: FreewayPropsv2:car:Car_body2
+    100014: FreewayPropsv2:car:pCube1
+    100016: FreewayPropsv2:car:pCube2
+    100018: FreewayPropsv2:car:pCylinder1
+    100020: FreewayPropsv2:car:pCylinder2
+    100022: FreewayPropsv2:car:pCylinder3
+    100024: FreewayPropsv2:car:pCylinder4
+    100026: FreewayPropsv2:car:pCylinder5
+    100028: FreewayPropsv2:car:pCylinder6
+    100030: FreewayPropsv2:car:transform1
+    100032: FreewayPropsv2:car:transform10
+    100034: FreewayPropsv2:car:transform11
+    100036: FreewayPropsv2:car:transform2
+    100038: FreewayPropsv2:car:transform3
+    100040: FreewayPropsv2:car:transform4
+    100042: FreewayPropsv2:car:transform5
+    100044: FreewayPropsv2:car:transform6
+    100046: FreewayPropsv2:car:transform7
+    100048: FreewayPropsv2:car:transform8
+    100050: FreewayPropsv2:car:transform9
+    100052: FreewayPropsv2:FencePost
+    100054: FreewayPropsv2:FencePost2
+    100056: FreewayPropsv2:FencePost3
+    100058: FreewayPropsv2:FencePost4
+    100060: FreewayPropsv2:FencePost5
+    100062: FreewayPropsv2:FencePost6
+    100064: FreewayPropsv2:FencePost7
+    100066: FreewayPropsv2:FencePost8
+    100068: FreewayPropsv2:group1
+    100070: FreewayPropsv2:ID14
+    100072: FreewayPropsv2:ID14 1
+    100074: FreewayPropsv2:ID14 2
+    100076: FreewayPropsv2:ID20
+    100078: FreewayPropsv2:ID20 1
+    100080: FreewayPropsv2:ID20 2
+    100082: FreewayPropsv2:ID26
+    100084: FreewayPropsv2:ID26 1
+    100086: FreewayPropsv2:ID26 2
+    100088: FreewayPropsv2:ID39
+    100090: FreewayPropsv2:ID39 1
+    100092: FreewayPropsv2:ID39 2
+    100094: FreewayPropsv2:ID61
+    100096: FreewayPropsv2:ID67
+    100098: FreewayPropsv2:ID81
+    100100: FreewayPropsv2:ID87
+    100102: FreewayPropsv2:ID95
+    100104: FreewayPropsv2:transform1
+    100106: FreewayPropsv2:transform10
+    100108: FreewayPropsv2:transform11
+    100110: FreewayPropsv2:transform12
+    100112: FreewayPropsv2:transform2
+    100114: FreewayPropsv2:transform3
+    100116: FreewayPropsv2:transform4
+    100118: FreewayPropsv2:transform5
+    100120: FreewayPropsv2:transform6
+    100122: FreewayPropsv2:transform7
+    100124: FreewayPropsv2:transform8
+    100126: FreewayPropsv2:transform9
+    100128: FreewaySection1
+    100130: FreewaySection2
+    100132: FreewaySection3
+    100134: FreewaySection4
+    100136: FreewaySection4Top
+    100138: FreewaySection5
+    100140: FreewaySection6
+    100142: FreewaySection7
+    100144: FreewaySection8
+    100146: FreewaySupportBeams
+    100148: FreewayTelephonePole1
+    100150: FreewayTelephonePole2
+    100152: FreewayTelephonePole3
+    400000: //RootNode
+    400002: FreewayPipes
+    400004: FreewayPropsv2:Bricks
+    400006: FreewayPropsv2:Bricks1
+    400008: FreewayPropsv2:car:Car
+    400010: FreewayPropsv2:car:Car_body1
+    400012: FreewayPropsv2:car:Car_body2
+    400014: FreewayPropsv2:car:pCube1
+    400016: FreewayPropsv2:car:pCube2
+    400018: FreewayPropsv2:car:pCylinder1
+    400020: FreewayPropsv2:car:pCylinder2
+    400022: FreewayPropsv2:car:pCylinder3
+    400024: FreewayPropsv2:car:pCylinder4
+    400026: FreewayPropsv2:car:pCylinder5
+    400028: FreewayPropsv2:car:pCylinder6
+    400030: FreewayPropsv2:car:transform1
+    400032: FreewayPropsv2:car:transform10
+    400034: FreewayPropsv2:car:transform11
+    400036: FreewayPropsv2:car:transform2
+    400038: FreewayPropsv2:car:transform3
+    400040: FreewayPropsv2:car:transform4
+    400042: FreewayPropsv2:car:transform5
+    400044: FreewayPropsv2:car:transform6
+    400046: FreewayPropsv2:car:transform7
+    400048: FreewayPropsv2:car:transform8
+    400050: FreewayPropsv2:car:transform9
+    400052: FreewayPropsv2:FencePost
+    400054: FreewayPropsv2:FencePost2
+    400056: FreewayPropsv2:FencePost3
+    400058: FreewayPropsv2:FencePost4
+    400060: FreewayPropsv2:FencePost5
+    400062: FreewayPropsv2:FencePost6
+    400064: FreewayPropsv2:FencePost7
+    400066: FreewayPropsv2:FencePost8
+    400068: FreewayPropsv2:group1
+    400070: FreewayPropsv2:ID14
+    400072: FreewayPropsv2:ID14 1
+    400074: FreewayPropsv2:ID14 2
+    400076: FreewayPropsv2:ID20
+    400078: FreewayPropsv2:ID20 1
+    400080: FreewayPropsv2:ID20 2
+    400082: FreewayPropsv2:ID26
+    400084: FreewayPropsv2:ID26 1
+    400086: FreewayPropsv2:ID26 2
+    400088: FreewayPropsv2:ID39
+    400090: FreewayPropsv2:ID39 1
+    400092: FreewayPropsv2:ID39 2
+    400094: FreewayPropsv2:ID61
+    400096: FreewayPropsv2:ID67
+    400098: FreewayPropsv2:ID81
+    400100: FreewayPropsv2:ID87
+    400102: FreewayPropsv2:ID95
+    400104: FreewayPropsv2:transform1
+    400106: FreewayPropsv2:transform10
+    400108: FreewayPropsv2:transform11
+    400110: FreewayPropsv2:transform12
+    400112: FreewayPropsv2:transform2
+    400114: FreewayPropsv2:transform3
+    400116: FreewayPropsv2:transform4
+    400118: FreewayPropsv2:transform5
+    400120: FreewayPropsv2:transform6
+    400122: FreewayPropsv2:transform7
+    400124: FreewayPropsv2:transform8
+    400126: FreewayPropsv2:transform9
+    400128: FreewaySection1
+    400130: FreewaySection2
+    400132: FreewaySection3
+    400134: FreewaySection4
+    400136: FreewaySection4Top
+    400138: FreewaySection5
+    400140: FreewaySection6
+    400142: FreewaySection7
+    400144: FreewaySection8
+    400146: FreewaySupportBeams
+    400148: FreewayTelephonePole1
+    400150: FreewayTelephonePole2
+    400152: FreewayTelephonePole3
+    2300000: FreewayPipes
+    2300002: FreewayPropsv2:Bricks1
+    2300004: FreewayPropsv2:car:Car
+    2300006: FreewayPropsv2:FencePost5
+    2300008: FreewayPropsv2:FencePost6
+    2300010: FreewayPropsv2:FencePost7
+    2300012: FreewayPropsv2:FencePost8
+    2300014: FreewaySection1
+    2300016: FreewaySection2
+    2300018: FreewaySection3
+    2300020: FreewaySection4
+    2300022: FreewaySection4Top
+    2300024: FreewaySection5
+    2300026: FreewaySection6
+    2300028: FreewaySection7
+    2300030: FreewaySection8
+    2300032: FreewaySupportBeams
+    2300034: FreewayTelephonePole1
+    2300036: FreewayTelephonePole2
+    2300038: FreewayTelephonePole3
+    3300000: FreewayPipes
+    3300002: FreewayPropsv2:Bricks1
+    3300004: FreewayPropsv2:car:Car
+    3300006: FreewayPropsv2:FencePost5
+    3300008: FreewayPropsv2:FencePost6
+    3300010: FreewayPropsv2:FencePost7
+    3300012: FreewayPropsv2:FencePost8
+    3300014: FreewaySection1
+    3300016: FreewaySection2
+    3300018: FreewaySection3
+    3300020: FreewaySection4
+    3300022: FreewaySection4Top
+    3300024: FreewaySection5
+    3300026: FreewaySection6
+    3300028: FreewaySection7
+    3300030: FreewaySection8
+    3300032: FreewaySupportBeams
+    3300034: FreewayTelephonePole1
+    3300036: FreewayTelephonePole2
+    3300038: FreewayTelephonePole3
+    4300000: FreewaySection1
+    4300002: FreewaySection2
+    4300004: FreewaySection3
+    4300006: FreewaySection4
+    4300008: FreewaySection4Top
+    4300010: FreewaySection5
+    4300012: FreewaySection6
+    4300014: FreewaySection7
+    4300016: FreewaySection8
+    4300018: FreewaySupportBeams
+    4300020: FreewayTelephonePole1
+    4300022: FreewayTelephonePole2
+    4300024: FreewayPipes
+    4300026: FreewayTelephonePole3
+    4300028: FreewayPropsv2:FencePost7
+    4300030: FreewayPropsv2:FencePost8
+    4300032: FreewayPropsv2:FencePost6
+    4300034: FreewayPropsv2:Bricks1
+    4300036: FreewayPropsv2:FencePost5
+    4300038: FreewayPropsv2:car:Car
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FreewayMat1
+    second: {fileID: 2100000, guid: cfc03e5270d43c7458ba43d7c3620aa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FreewayMat2
+    second: {fileID: 2100000, guid: 33afffbe171044f4c8b6d8fc1961acd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FreewayMat3
+    second: {fileID: 2100000, guid: cc54257308a31ef4fb0c116e787463fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FreewayMat4
+    second: {fileID: 2100000, guid: de4285609821739449f9fa91ee51cf35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FreewayMat5
+    second: {fileID: 2100000, guid: 35a204e4ee36cdb49b030ce643d0dc79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FreewayMat6
+    second: {fileID: 2100000, guid: 28643c4b93bdcb24da59f0abcce0dd44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FreewayMat7
+    second: {fileID: 2100000, guid: 0158e68ee0f13b2478f536a024ab7a1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FreewayPropsv2_FreewayFence01
+    second: {fileID: 2100000, guid: b16dda8376ef4074fa5b4956c3f5f1d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FreewayPropsv2_FreewayFence02
+    second: {fileID: 2100000, guid: 1d9c0431d0c9f934f8d56792d473284d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FreewayPropsv2_FreewayFence03
+    second: {fileID: 2100000, guid: 8d70884be9ca68e40ad41319a5e5fbb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 890b9bb85d7986542a3fb543e0624643, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

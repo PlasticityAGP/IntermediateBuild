@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 19a9f1dd472a2d549a72cdeb75fd89bd
+timeCreated: 1523244073
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BathroomMirror
+    100002: Bedframe
+    100004: Blanket
+    100006: Clock1
+    100008: Couch
+    100010: directionalLight1
+    100012: Fridge
+    100014: Fridge1
+    100016: group1
+    100018: Mattress
+    100020: //RootNode
+    100022: Picture_Frame
+    100024: Pillow
+    100026: Roof
+    100028: Shower
+    100030: ShowerCurtain
+    100032: Sink
+    100034: Soap_Dispenser
+    100036: Step
+    100038: Stool
+    100040: Stovetop
+    100042: Toilet
+    100044: ToiletPaper
+    100046: Toothbrush
+    100048: transform1
+    100050: transform2
+    100052: transform3
+    100054: TrashCan
+    100056: TV
+    100058: Window0
+    100060: Window1
+    400000: BathroomMirror
+    400002: Bedframe
+    400004: Blanket
+    400006: Clock1
+    400008: Couch
+    400010: directionalLight1
+    400012: Fridge
+    400014: Fridge1
+    400016: group1
+    400018: Mattress
+    400020: //RootNode
+    400022: Picture_Frame
+    400024: Pillow
+    400026: Roof
+    400028: Shower
+    400030: ShowerCurtain
+    400032: Sink
+    400034: Soap_Dispenser
+    400036: Step
+    400038: Stool
+    400040: Stovetop
+    400042: Toilet
+    400044: ToiletPaper
+    400046: Toothbrush
+    400048: transform1
+    400050: transform2
+    400052: transform3
+    400054: TrashCan
+    400056: TV
+    400058: Window0
+    400060: Window1
+    2300000: BathroomMirror
+    2300002: Bedframe
+    2300004: Blanket
+    2300006: Clock1
+    2300008: Couch
+    2300010: Fridge1
+    2300012: Mattress
+    2300014: Picture_Frame
+    2300016: Pillow
+    2300018: Roof
+    2300020: Shower
+    2300022: ShowerCurtain
+    2300024: Sink
+    2300026: Soap_Dispenser
+    2300028: Step
+    2300030: Stool
+    2300032: Toilet
+    2300034: ToiletPaper
+    2300036: Toothbrush
+    2300038: TrashCan
+    2300040: Window0
+    2300042: Window1
+    3300000: BathroomMirror
+    3300002: Bedframe
+    3300004: Blanket
+    3300006: Clock1
+    3300008: Couch
+    3300010: Fridge1
+    3300012: Mattress
+    3300014: Picture_Frame
+    3300016: Pillow
+    3300018: Roof
+    3300020: Shower
+    3300022: ShowerCurtain
+    3300024: Sink
+    3300026: Soap_Dispenser
+    3300028: Step
+    3300030: Stool
+    3300032: Toilet
+    3300034: ToiletPaper
+    3300036: Toothbrush
+    3300038: TrashCan
+    3300040: Window0
+    3300042: Window1
+    4300000: ToiletPaper
+    4300002: Toilet
+    4300004: Toothbrush
+    4300006: Stool
+    4300008: Bedframe
+    4300010: Blanket
+    4300012: Mattress
+    4300014: Pillow
+    4300016: Couch
+    4300018: TrashCan
+    4300020: Picture_Frame
+    4300022: BathroomMirror
+    4300024: Sink
+    4300026: Shower
+    4300028: ShowerCurtain
+    4300030: Soap_Dispenser
+    4300032: Roof
+    4300034: Step
+    4300036: Window0
+    4300038: Window1
+    4300040: Clock1
+    4300042: Fridge1
+    10800000: directionalLight1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MobileHomeBathroom
+    second: {fileID: 2100000, guid: 9aa1ffe2bfc74d74fa5cadfb30bff399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MobileHomeLiving
+    second: {fileID: 2100000, guid: 9b802f8d999434e44995bc4376e7447e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MobileHomeWalls_0
+    second: {fileID: 2100000, guid: 038da12c727c0b247a3e5ba95421e1fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MobileHomeWalls_1
+    second: {fileID: 2100000, guid: 9e4b3ccf6069fba4492237c8fc39aa0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MobileHomeWindows
+    second: {fileID: 2100000, guid: e1c67b57da3eaaf43994dbfbe7bddbd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mobile_Home_Kitchen
+    second: {fileID: 2100000, guid: f91fbde27790c3b4b949a78bef21aba0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
